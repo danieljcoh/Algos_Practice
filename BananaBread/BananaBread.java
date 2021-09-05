@@ -1,7 +1,7 @@
 public class BananaBread
 {
     //PROBLEM
-    //Given a number of fruit, half of the fruit is apples the other half is bananas. 
+    //Given a number of fruit, half of the fruit are apples the other half are bananas. 
     public static void main(String[] args) {
     
         makeBananaBread(12);
